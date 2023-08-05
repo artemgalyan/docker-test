@@ -48,6 +48,8 @@ dlldata.c
 project.lock.json
 project.fragment.lock.json
 artifacts/
+launchSettings.json
+binary/
 
 *_i.c
 *_p.c
